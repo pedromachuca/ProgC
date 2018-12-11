@@ -1,0 +1,1 @@
+Il n'y a pas de vraie sécurité pour cet algorithme. Ce type de chiffrement est trivial à casser, même sans ordinateur !!!
